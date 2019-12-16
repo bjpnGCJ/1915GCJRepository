@@ -8,4 +8,5 @@ public class Person {
     private String id;
     private String name;
     private String bran2;
+    private String bran1;
 }
